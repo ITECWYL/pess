@@ -15,7 +15,7 @@ function validateForm()
 }
 </script>
 <meta charset="utf-8">
-<title>Police Emergency Service System</title>
+<title>Police EmergencY Service System</title>
 
 <?php // import nav.php
 require_once 'nav.php';
